@@ -22,8 +22,6 @@ Module: very simple RT with GPU
 
 
 #define PI 3.1415926535897932385E0
-#define bfactor 1.1  /* value by which to divide bubble size R */
-#define xHlim 0.999 /* cutoff limit for bubble calculation */
 #define CM_PER_MPC 3.0857e24
 #define CM_PER_PC 3.086e+18
 #define MASSFRAC 0.76
